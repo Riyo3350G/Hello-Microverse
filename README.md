@@ -201,15 +201,15 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="Redwan"></a>
 
 > Mention all of the collaborators of this project.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/riyo3350g)
+- Twitter: [@twitterhandle](https://twitter.com/Rben_yechou)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/redwan-ben-yechou)
 
 👤 **Author2**
 
